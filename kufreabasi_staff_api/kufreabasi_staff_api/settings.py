@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'djangorestframework',
+    'employees',
 ]
 
 MIDDLEWARE = [
@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'kufreabasi_staff_api.wsgi.application'
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME":  'coursequest-main',
+        "NAME":  'staff_api',
         "USER": 'postgres',
         "PASSWORD": '1234',
         "HOST": 'localhost',# or my/any database host

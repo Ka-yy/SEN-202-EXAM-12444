@@ -12,3 +12,10 @@ This api manages the manager and intern day-to-day activities of interns and man
 
 Kufreabasi Emmanuel Udoh, VUG/SEN/24/12444
 [Ka-yy](https://github.com/Ka-yy)
+
+### SuperUser Details
+
+username: kufre
+passwword: lemmepassthisexam
+
+questions answered: 1, 3, 5
