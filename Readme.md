@@ -2,7 +2,7 @@
 
 Organization staff api
 
-## Descriptiom
+## Description
 
 This staff api is used to mange the activities of  the staff in veritas enterprises
 
